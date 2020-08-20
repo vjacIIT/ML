@@ -1,1 +1,1 @@
-# ML implementation of data processing, classification and clustering algorithms during ML course.
+# Implementation of data processing, classification and clustering algorithms during ML course.
